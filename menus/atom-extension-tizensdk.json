@@ -27,6 +27,22 @@
           {
             "label": "Tizen TV: SDB Command Prompt",
             "command": "Tizen TV: SDB Command Prompt"
+          },
+          {
+            "label": "Tizen TV: Wits Start (Install and Live reload)",
+            "command": "Tizen TV: Wits Start (Install and Live reload)"
+          },
+          {
+            "label": "Tizen TV: Wits Watch (Live reload)",
+            "command": "Tizen TV: Wits Watch (Live reload)"
+          },
+          {
+            "label": "Tizen TV: Wits Stop",
+            "command": "Tizen TV: Wits Stop"
+          },
+          {
+            "label": "Tizen TV: Excluding files",
+            "command": "Tizen TV: Excluding files"
           }
         ]
       }
@@ -62,6 +78,18 @@
             {
               "label": "Tizen TV: SDB Command Prompt",
               "command": "Tizen TV: SDB Command Prompt"
+            },
+            {
+              "label": "Tizen TV: Wits Start (Install and Live reload)",
+              "command": "Tizen TV: Wits Start (Install and Live reload)"
+            },
+            {
+              "label": "Tizen TV: Wits Watch (Live reload)",
+              "command": "Tizen TV: Wits Watch (Live reload)"
+            },
+            {
+              "label": "Tizen TV: Wits Stop",
+              "command": "Tizen TV: Wits Stop"
             }
           ]
         }
