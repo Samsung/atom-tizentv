@@ -1,7 +1,7 @@
 {
     "name": "atom-tizentv",
     "main": "./lib/atom-extension-tizensdk",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "'tizensdk' is a lightweight dispatch of Tizen Studio, which provides extensible IDE to develop/debug tizen apps in Atom.",
     "keywords": [
         "atom",
