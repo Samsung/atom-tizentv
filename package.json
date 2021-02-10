@@ -1,33 +1,33 @@
 {
-  "name": "atom-tizentv",
-  "main": "./lib/atom-extension-tizensdk",
-  "version": "0.4.0",
-  "description": "'tizensdk' is a lightweight dispatch of Tizen Studio, which provides extensible IDE to develop/debug tizen apps in Atom.",
-  "keywords": [
-    "atom",
-    "tizen",
-    "tizentv",
-    "sdk"
-  ],
-  "repository": "https://github.com/Samsung/atom-tizentv",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "@tizentv/wits": "^2.4.4",
-    "@tizentv/webide-common-tizentv": "^1.0.10",
-    "@tizentv/tools": "^1.0.2",
-    "archiver": "^1.3.0",
-    "async": "^2.6.1",
-    "atom-select-list": "^0.7.2",
-    "compressing": "^1.5.1",
-    "electron": "^4.1.0",
-    "form-data": "^2.3.3",
-    "node-forge": "^0.10.0",
-    "q": "^1.5.1",
-    "xml2js": "^0.4.17",
-    "xmldom": "^0.1.27",
-    "jquery": "^3.4.1"
-  }
+    "name": "atom-tizentv",
+    "main": "./lib/atom-extension-tizensdk",
+    "version": "1.0.0",
+    "description": "'tizensdk' is a lightweight dispatch of Tizen Studio, which provides extensible IDE to develop/debug tizen apps in Atom.",
+    "keywords": [
+        "atom",
+        "tizen",
+        "tizentv",
+        "sdk"
+    ],
+    "repository": "https://github.com/Samsung/atom-tizentv",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+        "@tizentv/wits": "^2.5.0",
+        "@tizentv/webide-common-tizentv": "^1.0.10",
+        "@tizentv/tools": "^1.0.2",
+        "archiver": "^1.3.0",
+        "async": "^2.6.1",
+        "atom-select-list": "^0.7.2",
+        "compressing": "^1.5.1",
+        "electron": "^4.1.0",
+        "form-data": "^2.3.3",
+        "node-forge": "^0.10.0",
+        "q": "^1.5.1",
+        "xml2js": "^0.4.17",
+        "xmldom": "^0.1.27",
+        "jquery": "^3.4.1"
+    }
 }
